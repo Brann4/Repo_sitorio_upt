@@ -31,3 +31,5 @@ INSERT INTO editorial(id_editorial,nombre_editorial,fecha_publicacion)
 VALUES(10, ' Upt','2/10/18');
 INSERT INTO editorial(id_editorial,nombre_editorial,fecha_publicacion)
 VALUES(11, ' Upt','3/9/18');
+INSERT INTO editorial(id_editorial,nombre_editorial,fecha_publicacion)
+VALUES(12, ' Upt','6/9/18');
