@@ -17,3 +17,11 @@ VALUES(02, 'Leydi ');
 
 insert into autor(id_autor, nombre_autor)
 values(03, ' Brandon');
+
+INSERT INTO autor(id_autor, nombre_autor)
+VALUES(03, ' Brandon');
+
+
+
+
+
