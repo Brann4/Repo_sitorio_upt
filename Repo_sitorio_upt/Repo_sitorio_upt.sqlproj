@@ -173,6 +173,8 @@
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
     <Build Include="Security\Permissions.sql" />
+    <Build Include="dbo\Scripts\escuela_datos.sql" />
+    <Build Include="dbo\Scripts\facultad_datos.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="dbo\Scripts\Script.Autores.sql" />
