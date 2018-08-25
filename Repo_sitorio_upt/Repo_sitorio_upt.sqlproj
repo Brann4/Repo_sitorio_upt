@@ -175,7 +175,7 @@
     <Build Include="Security\Permissions.sql" />
   </ItemGroup>
   <ItemGroup>
-    <PostDeploy Include="dbo\Scripts\facultad_datos.sql" />
-    <None Include="dbo\Scripts\escuela_datos.sql" />
+    <PostDeploy Include="dbo\Scripts\Script.Autores.sql" />
+    <None Include="dbo\Scripts\Script.editorial.sql" />
   </ItemGroup>
 </Project>
