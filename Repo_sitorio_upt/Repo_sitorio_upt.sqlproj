@@ -180,5 +180,6 @@
     <PostDeploy Include="dbo\Scripts\Script.Autores.sql" />
     <None Include="dbo\Scripts\Script.editorial.sql" />
     <None Include="dbo\Scripts\insert_usuarios.sql" />
+    <None Include="dbo\Scripts\coleccion.sql" />
   </ItemGroup>
 </Project>
