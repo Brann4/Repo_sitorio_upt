@@ -174,4 +174,7 @@
     </Build>
     <Build Include="Security\Permissions.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="dbo\Scripts\Script.Autores.sql" />
+  </ItemGroup>
 </Project>
