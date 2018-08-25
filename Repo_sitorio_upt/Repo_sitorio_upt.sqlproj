@@ -179,5 +179,6 @@
   <ItemGroup>
     <PostDeploy Include="dbo\Scripts\Script.Autores.sql" />
     <None Include="dbo\Scripts\Script.editorial.sql" />
+    <None Include="dbo\Scripts\insert_usuarios.sql" />
   </ItemGroup>
 </Project>
