@@ -9,37 +9,5 @@ Plantilla de script posterior a la implementación
                SELECT * FROM [$(TableName)]					
 --------------------------------------------------------------------------------------
 */
-insert into autor(id_autor, nombre_autor)
-values(01, 'angela balaguer');
-
-INSERT INTO autor(id_autor, nombre_autor)
-VALUES(02, 'Leydi ');
-
-insert into autor(id_autor, nombre_autor)
-values(03, ' Brandon');
-
-INSERT INTO autor(id_autor, nombre_autor)
-VALUES(04, ' Juanito');
-
-
-INSERT INTO autor(id_autor, nombre_autor)
-VALUES(05, ' Suarez');
-
-INSERT INTO autor(id_autor, nombre_autor)
-VALUES(06, ' Fernando');
-
-INSERT INTO autor(id_autor, nombre_autor)
-VALUES(07, ' Nando');
-
-INSERT INTO autor(id_autor, nombre_autor)
-VALUES(08, ' PErez');
-
-INSERT INTO autor(id_autor, nombre_autor)
-VALUES(09, ' Fabrizzio');
-
-INSERT INTO autor(id_autor, nombre_autor)
-VALUES(10, ' Juan');
-
-
-
-
+INSERT INTO editorial(id_editorial,nombre_editorial,fecha_publicacion)
+VALUES(01, ' Upt','15/01/18');
